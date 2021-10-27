@@ -3,6 +3,8 @@ Conway's Game of Life (Cellular Automata)
 
 A python class for John H. Conway's game of life.
 
+uses numpy
+
 ## Documentation
 The game state is stored in a numpy array with 1 symoblizing an alive cell and 0 symbolizing a dead cell. The game is displayed in the python console using a grid of ascii characters.
 
